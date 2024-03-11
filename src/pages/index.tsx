@@ -184,7 +184,7 @@ export default function Home() {
             marginTop="10px"
           >
             <Flex flexDir="column" alignItems="center" gap="10px" paddingTop="10px">
-              <Text fontSize="14px">Obtenha o aplicativo.</Text>
+              <Text fontSize="14px">Obtenha o aplicativo</Text>
               <Image src={BUTTONS} alt="Buttons"/>
             </Flex>
             
